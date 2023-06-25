@@ -3,8 +3,7 @@
 ## Installation
 
 1. Change to the project directory.
-2. Install the required libraries with the command
-   python3 -m pip install -r requirements.txt
+2. Install the required libraries with the command: `python3 -m pip install -r requirements.txt`
 3. Create a file called `.env` and edit to add these lines:
 ```
 USER_ID={your user id}
